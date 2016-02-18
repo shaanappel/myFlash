@@ -14,6 +14,7 @@
 		FC7862251C7109F100558302 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC7862231C7109F100558302 /* LaunchScreen.storyboard */; };
 		FC7862301C7109F100558302 /* myFlashTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC78622F1C7109F100558302 /* myFlashTests.swift */; };
 		FC78623B1C7109F100558302 /* myFlashUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC78623A1C7109F100558302 /* myFlashUITests.swift */; };
+		FCC6D3061C75AC0100C7690D /* flash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FCC6D3051C75AC0100C7690D /* flash.jpg */; };
 		FCDD93C41C710DE40057CE1D /* Down-arrow-1300x200-light-gray.png in Resources */ = {isa = PBXBuildFile; fileRef = FCDD93C31C710DE40057CE1D /* Down-arrow-1300x200-light-gray.png */; };
 /* End PBXBuildFile section */
 
@@ -48,6 +49,7 @@
 		FC7862361C7109F100558302 /* myFlashUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myFlashUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC78623A1C7109F100558302 /* myFlashUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myFlashUITests.swift; sourceTree = "<group>"; };
 		FC78623C1C7109F100558302 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCC6D3051C75AC0100C7690D /* flash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flash.jpg; sourceTree = "<group>"; };
 		FCDD93C31C710DE40057CE1D /* Down-arrow-1300x200-light-gray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Down-arrow-1300x200-light-gray.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +104,7 @@
 				FC78621A1C7109F100558302 /* AppDelegate.swift */,
 				FCDD93C31C710DE40057CE1D /* Down-arrow-1300x200-light-gray.png */,
 				FC78621C1C7109F100558302 /* ViewController.swift */,
+				FCC6D3051C75AC0100C7690D /* flash.jpg */,
 				FC78621E1C7109F100558302 /* Main.storyboard */,
 				FC7862211C7109F100558302 /* Assets.xcassets */,
 				FC7862231C7109F100558302 /* LaunchScreen.storyboard */,
@@ -238,6 +241,7 @@
 				FC7862251C7109F100558302 /* LaunchScreen.storyboard in Resources */,
 				FCDD93C41C710DE40057CE1D /* Down-arrow-1300x200-light-gray.png in Resources */,
 				FC7862221C7109F100558302 /* Assets.xcassets in Resources */,
+				FCC6D3061C75AC0100C7690D /* flash.jpg in Resources */,
 				FC7862201C7109F100558302 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
